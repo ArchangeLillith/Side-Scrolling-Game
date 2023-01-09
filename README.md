@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ArchangeLillith/Side-Scrolling-Game">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="./images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Side Scrolling Game</h3>
